@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi-ya!!!👋
+I'm Rinki Chawala.
 
-<!--
-**Rinki-chawala/Rinki-chawala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--------------------------
 
-Here are some ideas to get you started:
+Data & Business Analytics Practitioner | Insight Explorer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👩🏻‍💻 As an analyst I am eager to gain a deeper understanding of the data lifecycle with a range of tools and techniques, distilling down data from actionable takeaways using Data & Business Analytics, SQL, Tableau, Excel ,Technical documentation  & Reporting and Attention to Details to make recommendations across different business groups.
+
+
+💻 Tech Stack
+
+
