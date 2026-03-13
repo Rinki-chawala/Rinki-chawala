@@ -1,10 +1,15 @@
-<h1 align="center">Hi 👋 I'm Rinki</h1> 
-<h3 align="center">Aspiring Data Analyst | Excel | SQL | Tableau</h3>
+# Hi, I'm Rinki Chawala
 
+### Data & Business Analytics | Insights Explorer
 --------------------------
 
-👩🏻‍💻 As an analyst I am eager to gain a deeper understanding of the data lifecycle with a range of tools and techniques, distilling down data from actionable takeaways using Data & Business Analytics, SQL, Tableau, Excel ,Technical documentation  & Reporting and Attention to Details to make recommendations across different business groups.
+## About Me
 
+- 📊 Aspiring **Data & Business Analyst**
+- 📈 Passionate about turning **data into insights**
+- 🧠 Currently learning **Excel, SQL, Tableau**
+- 🛠 Interested in **Data Visualization & Business Intelligence**
+- 📍 Based in Noida, India
 
 ##💻 Tech Stack
 
