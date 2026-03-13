@@ -1,5 +1,5 @@
 # Hi-ya!!! 👋
-# I'm Rinki Chawala.
+## I'm Rinki Chawala.
 
 ### Data & Business Analytics | Insights Explorer
 --------------------------
