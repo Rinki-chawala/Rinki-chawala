@@ -1,24 +1,18 @@
-<h1><b>Hi-ya!!! 👋</b></h1>
+<h1>Hi-ya!!! 👋</h1>
 <h2>I'm Rinki Chawala</h2>
-
-### Data & Business Analytics | Insights Explorer
+<h3>Data & Business Analytics | Insights Explorer</h3>
 --------------------------
 
-## About Me
+## 👩🏻‍💻About Me
 
-- 📊  **Data & Business Analyst** aficionado
-- 📈 Passionate about turning **data into insights**
+- 📊 Aspiring **Data & Business Analyst**
+- 📈 Passionate about turning **data into actionable insights**
 - 🧠 Currently learning **Excel, SQL, Tableau**
 - 🛠 Interested in **Data Visualization & Business Intelligence**
 - 📍 Based in Noida, India
 
-##💻 Tech Stack
 
-<p align="left">
-
-## Tech Stack
-
-## Tech Stack
+## 💻Tech Stack
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
