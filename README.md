@@ -1,7 +1,6 @@
 <h1>Hi-ya!!! 👋</h1>
 <h2>I'm Rinki Chawala</h2>
 <h3>Data & Business Analytics | Insights Explorer</h3>
---------------------------
 
 ## 👩🏻‍💻About Me
 
